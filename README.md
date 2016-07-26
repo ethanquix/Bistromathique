@@ -12,7 +12,6 @@ Featuring
     Modulo
     Work in any base
     Parse input expression, handle priorities and brackets
-![Bistromathique](https://raw.githubusercontent.com/ethanquix/ressources/master/gif/bistromathique.gif)
 Installation
 ----------
     git clone https://github.com/ethanquix/Bistromathique.git
